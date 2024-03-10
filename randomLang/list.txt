@@ -1,1 +1,1 @@
-JavaScript, Python, Java, PHP, C#, C++, TypeScript, Ruby, C, Swift, R, Scala, Go, Shell, Kotlin, Rust, Perl, Dart
+JavaScript, Python, Java, PHP, C#, C++, TypeScript, Ruby, C, Swift, Scala, Go, Shell, Kotlin, Rust, Perl, Dart, Pascal
